@@ -1,8 +1,8 @@
 #!/bin/sh
-python3 ./mlops-demo/data_creation.py
-python3 ./mlops-demo/model_preprocessing.py
-python3 ./mlops-demo/model_preparation.py
-python3 ./mlops-demo/model_testing.py
+python3 ./mlops-demo/Creation Data.py
+python3 ./mlops-demo/Preprocessing.py
+python3 ./mlops-demo/Preparation.py
+python3 ./mlops-demo/Testing.py
 
 # optional
-python3 ./mlops-demo/cleaner.py
+python3 ./mlops-demo/Cleaner.py
