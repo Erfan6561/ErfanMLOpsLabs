@@ -8,7 +8,7 @@
 
 ```pip install -r requirements.txt```
 
-Перейти в директорию *Prog1* 
+Перейти в директорию *Lab1* 
 
 ```cd Lab11```
 
